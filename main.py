@@ -31,7 +31,7 @@ def main():
         'optimizer': 'adam',
         'lr': 0.001,
         'lr_decay': 1,
-        'iterations': 2000,
+        'iterations': 800000,
         'batch_size': None,
         'print_every': 1000,
         'save': True,
