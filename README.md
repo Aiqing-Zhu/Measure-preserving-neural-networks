@@ -11,6 +11,6 @@ Requirements
 ## Usage
 
 `main.py`: training measure preserving training networks;
-'LF_data.py': generate data;
-'LF_output: plot the trajectories of true and learned systems
-'plot': plot the illustration of expected error
+`LF_data.py`: generate data;
+`LF_output`: plot the trajectories of true and learned systems;
+`plot`: plot the illustration of expected error.
